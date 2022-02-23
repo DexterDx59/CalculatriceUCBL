@@ -36,14 +36,7 @@
         <?php echo date("Y-m-d"); ?>  
       </div> 
     </div>
-    <?php 
-      
-      $color = "red";
-      echo "My car is " . $color . "<br>";
-      echo "My house is " . $color . "<br>";
-      echo "My boat is " . $color . "<br>";
-      
-    ?>
+  
       <?php 
 $result = "";
 class calculator
